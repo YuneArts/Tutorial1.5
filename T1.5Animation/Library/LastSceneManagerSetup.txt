@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/tutorial1.5anim.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
